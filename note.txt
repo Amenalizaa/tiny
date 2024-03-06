@@ -1,0 +1,63 @@
+* pt sans
+    regular
+    bold
+
+* font-family:'PT Sans', sans-serif;
+
+* color
+     black: #010101
+     ash: #898989
+     yellow: fcdb00
+
+ responsiveness check screen ------------
+xxl 1440   1600 1800 2100
+xl 1200
+lg 1024
+
+md 768
+
+sm 576
+col 320
+
+
+
+
+header------------
+      
+        xxl/xl/lg     md       sm/col
+ menu:   22           22         20
+
+
+ slider: 
+ h1       32           32         25
+ h2       20           20         18
+ p        16           16         16/15
+ icon     42           42         35
+ paddig bottom 100     100        60
+
+
+
+
+ padding: 20          20         10
+
+
+feature
+         xxl/xl/lg     md       sm/col
+pt        100         80         50
+pb        120         100        70
+
+h1       32           32         25
+p        20           20         17
+
+
+margin-top 70         50        30
+
+icon      50          50
+p         16          16        16
+h2        22          22        18/20
+
+
+<i class="fa-solid fa-tablet-screen-button"></i>
+<i class="fa-thin fa-lemon"></i>
+<i class="fa-light fa-code"></i>
+<i class="fa-light fa-envelope"></i>
